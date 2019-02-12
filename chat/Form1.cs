@@ -92,7 +92,7 @@ namespace chat
                 MessageBox.Show(ex.Message.ToString());
             }
         }
-
+        //Adam
         private void backgroundWorker1_DoWork(object sender, DoWorkEventArgs e)
         {
             while (client.Connected)
