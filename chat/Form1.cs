@@ -140,5 +140,15 @@ namespace chat
             }
             edtToSend.Text = "";
         }
+
+        private void edtServerIP_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void edtToSend_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
